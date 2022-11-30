@@ -2,8 +2,6 @@ Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-
-
 General
 
 Why Python programming is awesome
@@ -90,6 +88,3 @@ Don’t forget to push your header file
 
 All your header files should be include guarded
 
-More Info
-
-Note: you do not need to understand lists yet.
