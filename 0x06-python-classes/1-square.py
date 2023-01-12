@@ -2,11 +2,10 @@
 # -*- coding: utf-8 -*-
 
 """
-Created: Wed Dec 28 2022
-@author: kundaiiii
+
+a class Square that defines a square by: (based on 1-square.py)
 
 """
-
 class Square:
 
     """Class Square that has attributes. Instantiation with size
@@ -14,18 +13,11 @@ class Square:
     Attributes:
 
         size (int): The size of the square
-
     """
-
-
     def __init__(self, size):
 
         """The __init__ method for Square class
-
         Args:
-
             size: (:obj: 'int'): A private instance size
-
         """
-
         self.__size = size
