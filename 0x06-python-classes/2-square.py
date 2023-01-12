@@ -5,6 +5,8 @@
 a class Square that defines a square by: (based on 1-square.py)
 
 """
+
+
 class Square:
     """Class Square that has attributes. Instantiation with size
     Attributes:

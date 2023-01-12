@@ -6,6 +6,7 @@ a class Square that defines a square by: (based on 4-square.py)
 
 """
 
+
 class Square:
     """Class Square that has attributes. Instantiation with size
 
@@ -26,7 +27,6 @@ class Square:
         self.__size = size
 
     @property
-
     def size(self):
         """Call the function to checking property
 
@@ -38,7 +38,6 @@ class Square:
         return self.__size
 
     @size.setter
-
     def size(self, value):
         """check errors and setter for size attribute
 
